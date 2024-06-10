@@ -7,7 +7,7 @@ Standards-Version: 4.5.0.3
 Vcs-Browser: https://github.com/sexynos/adaptation-droidian-exynos9810
 Vcs-Git: https://github.com/sexynos/adaptation-droidian-exynos9810.git
 
-Package: adaptation-droidian-exynos9810
+Package: adaptation-samsung-exynos9810
 Architecture: arm64
 Depends: ${misc:Depends},
          adaptation-hybris-api29-phone,
